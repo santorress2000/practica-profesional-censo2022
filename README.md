@@ -17,11 +17,11 @@ Análisis de datos censales (2022) para evaluar y corregir indicadores de pobrez
 
 ## 💡 Hallazgos clave
 * **El subregistro del NBI:** Se demostró que el indicador subestima gravemente el déficit habitacional (1,64%). Al corregir el sesgo e incorporar tipologías precarias omitidas (como "Casas Tipo B" y "Ranchos"), el déficit real escala al **9,69%**.
-* **El "Punto Ciego" del centro:** Mediante la aplicación del IPMH, se reveló que la zona céntrica sufre una fuerte privación de ingresos concentrada en hogares unipersonales, una vulnerabilidad económica que el NBI tradicional no contempla.
+* **El "punto ciego" del centro:** Mediante la aplicación del IPMH, se reveló que la zona céntrica sufre una fuerte privación de ingresos concentrada en hogares unipersonales, una vulnerabilidad económica que el NBI tradicional no contempla.
 * **Validación territorial:** Se desarrolló una métrica de intersección espacial para cruzar los datos censales con los polígonos oficiales del **ReNaBaP**. Se obtuvo una alta correlación (**r = 0,72**), validando estadísticamente que los indicadores calculados reflejan la realidad del territorio.
 
 ## 🗄️ Para reproducir localmente el proyecto
-Las bases de datos y cartografías utilizadas no están incluidas en el repositorio. Para acceder a los mismos debe:
+Las bases de datos y capas GIS no están incluidas en el repositorio. Para acceder a los mismos debe:
 1. Descargar el archivo `datos_PPS_censo.zip` desde **[este enlace de Google Drive](https://drive.google.com/file/d/1rVSzGVCFHb5g_l7ip6Ff5Qw11B5KDmUF/view?usp=sharing)**.
 2. Descomprimir el archivo y colocar la carpeta `data/` en la raíz del proyecto.
 3. Ejecutar los Jupyter Notebooks de la carpeta `notebooks/`.

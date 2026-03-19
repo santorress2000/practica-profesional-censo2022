@@ -8,7 +8,7 @@ Repositorio del trabajo realizado en el marco de la **Práctica Profesional Supe
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
 ## 🎯 Resumen del trabajo
-Análisis de datos censales (2022) para evaluar y corregir indicadores de pobreza en la ciudad. El proyecto expone las limitaciones del indicador tradicional de **Necesidades Básicas Insatisfechas (NBI)**, analiza el **Índice de Privación Material de los Hogares (IPMH)**, desarrolla una comparativa con el **ReNaBaP** y culmina en un tablero interactivo en Metabase para facilitar la exploración de los indicadores censales estudiados en la ciudad de Rosario.
+Análisis de datos censales (2022) para evaluar y corregir indicadores de pobreza en la ciudad. El proyecto expone las limitaciones del indicador tradicional de **Necesidades Básicas Insatisfechas (NBI)**, analiza el **Índice de Privación Material de los Hogares (IPMH)**, desarrolla una comparativa con el **ReNaBaP** y culmina con un tablero interactivo en Metabase para facilitar la exploración de los indicadores censales estudiados en la ciudad de Rosario.
 
 ## 📂 Contenido
 * 📄 **[Informe Completo (PDF)](./Informe%20PPS%20-%20Torres%20Santiago.pdf):** Documento detallado de la Práctica Profesional Supervisada.
